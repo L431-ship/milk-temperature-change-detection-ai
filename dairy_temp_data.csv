@@ -1,0 +1,501 @@
+Product,External_Temperature,Required_Temperature
+Flavored Milk,36,7.5
+Flavored Milk,25,2.2
+Milk,35,2.4
+Flavored Milk,40,4.3
+Milk,23,2.3
+Flavored Milk,28,2.6
+Cheese,36,5.3
+Milk,25,2.1
+Cheese,29,6.0
+Milk,36,2.9
+Ice-cream,45,-15.2
+Flavored Milk,34,7.7
+Ice-cream,21,-14.1
+Ice-cream,40,-13.7
+Milk,40,3.4
+Milk,33,3.5
+Curd,45,4.5
+Milk,33,3.5
+Cheese,24,4.4
+Ice-cream,24,-16.0
+Ice-cream,22,-13.5
+Flavored Milk,41,6.9
+Cheese,35,4.4
+Curd,39,4.9
+Cheese,43,6.8
+Curd,23,3.8
+Curd,25,5.9
+Ice-cream,41,-12.5
+Cheese,25,2.9
+Milk,38,3.0
+Flavored Milk,24,4.0
+Ice-cream,45,-12.8
+Cheese,43,2.1
+Milk,43,1.6
+Flavored Milk,34,5.5
+Milk,32,3.5
+Curd,39,4.6
+Curd,21,3.6
+Flavored Milk,20,3.9
+Ice-cream,39,-16.1
+Curd,25,5.8
+Milk,31,1.2
+Cheese,30,1.6
+Ice-cream,28,-13.9
+Curd,23,5.3
+Cheese,30,5.4
+Milk,30,3.4
+Cheese,32,4.5
+Milk,42,2.0
+Milk,36,3.8
+Ice-cream,45,-16.9
+Flavored Milk,33,6.6
+Ice-cream,45,-13.8
+Milk,30,1.7
+Ice-cream,39,-17.1
+Ice-cream,40,-16.7
+Milk,41,3.4
+Cheese,39,3.2
+Cheese,22,2.2
+Curd,23,5.6
+Curd,41,4.6
+Milk,38,3.7
+Flavored Milk,22,4.4
+Flavored Milk,30,4.5
+Flavored Milk,24,8.0
+Cheese,36,6.7
+Milk,24,1.0
+Curd,35,2.2
+Curd,42,4.8
+Milk,21,4.0
+Ice-cream,25,-15.9
+Milk,43,3.8
+Cheese,40,2.8
+Flavored Milk,24,6.4
+Ice-cream,27,-12.6
+Milk,35,1.9
+Milk,42,2.1
+Milk,26,4.0
+Ice-cream,36,-12.8
+Cheese,33,5.3
+Milk,37,2.4
+Curd,37,4.6
+Curd,27,4.4
+Milk,23,3.9
+Flavored Milk,41,2.6
+Curd,29,4.2
+Flavored Milk,25,6.9
+Flavored Milk,39,7.5
+Milk,24,2.6
+Curd,27,3.0
+Curd,44,3.4
+Milk,39,1.7
+Milk,38,2.3
+Cheese,39,1.6
+Curd,43,5.5
+Curd,42,4.6
+Cheese,31,2.8
+Cheese,29,5.0
+Curd,23,2.5
+Cheese,43,1.5
+Flavored Milk,31,4.5
+Flavored Milk,20,6.0
+Flavored Milk,43,7.4
+Flavored Milk,28,3.3
+Ice-cream,35,-15.2
+Curd,26,4.2
+Milk,36,3.4
+Flavored Milk,39,4.8
+Ice-cream,35,-16.5
+Cheese,40,3.5
+Curd,21,2.2
+Milk,37,3.2
+Curd,44,2.4
+Flavored Milk,28,5.9
+Flavored Milk,31,4.4
+Milk,35,1.7
+Ice-cream,22,-12.3
+Cheese,32,6.4
+Curd,44,5.6
+Cheese,31,1.1
+Curd,33,5.1
+Milk,30,1.3
+Milk,39,1.6
+Milk,20,2.4
+Curd,29,5.3
+Ice-cream,43,-12.1
+Ice-cream,22,-12.6
+Flavored Milk,24,4.1
+Cheese,37,3.8
+Flavored Milk,43,3.7
+Milk,29,2.1
+Flavored Milk,36,2.6
+Milk,20,2.1
+Cheese,45,5.6
+Curd,29,3.3
+Curd,37,4.7
+Curd,41,3.4
+Ice-cream,32,-12.3
+Flavored Milk,43,2.5
+Cheese,20,5.9
+Milk,24,2.0
+Curd,27,4.6
+Cheese,40,1.3
+Curd,29,5.2
+Curd,38,4.4
+Cheese,45,6.5
+Flavored Milk,43,2.0
+Ice-cream,21,-15.4
+Cheese,33,6.5
+Ice-cream,39,-14.0
+Flavored Milk,45,3.3
+Flavored Milk,39,4.5
+Curd,27,2.9
+Cheese,43,5.9
+Flavored Milk,37,3.1
+Flavored Milk,29,3.8
+Curd,20,4.1
+Flavored Milk,32,2.2
+Ice-cream,32,-16.3
+Milk,34,2.8
+Flavored Milk,26,4.0
+Milk,20,1.6
+Cheese,26,2.7
+Ice-cream,24,-14.4
+Milk,32,3.1
+Cheese,21,2.2
+Flavored Milk,40,5.8
+Flavored Milk,22,7.6
+Ice-cream,40,-14.1
+Curd,33,4.7
+Milk,38,1.0
+Milk,27,2.6
+Flavored Milk,26,4.6
+Flavored Milk,27,4.0
+Milk,37,1.1
+Cheese,22,5.4
+Ice-cream,43,-13.1
+Curd,34,4.1
+Ice-cream,42,-15.9
+Cheese,35,1.0
+Cheese,34,1.8
+Cheese,20,6.6
+Cheese,45,1.6
+Ice-cream,45,-15.0
+Cheese,38,5.3
+Curd,44,4.8
+Ice-cream,45,-17.5
+Milk,40,2.9
+Flavored Milk,38,7.0
+Flavored Milk,39,3.8
+Curd,39,3.8
+Ice-cream,30,-17.9
+Cheese,38,2.5
+Ice-cream,30,-16.8
+Curd,20,3.5
+Curd,42,4.8
+Cheese,44,3.8
+Milk,25,2.2
+Milk,23,1.1
+Ice-cream,23,-17.0
+Curd,40,2.5
+Curd,22,2.8
+Ice-cream,21,-16.8
+Cheese,23,1.9
+Curd,24,5.1
+Ice-cream,36,-14.4
+Ice-cream,35,-13.9
+Curd,33,4.4
+Cheese,29,3.2
+Ice-cream,37,-16.3
+Ice-cream,33,-17.1
+Milk,42,1.7
+Flavored Milk,36,6.7
+Cheese,31,2.3
+Curd,44,3.7
+Ice-cream,33,-13.0
+Ice-cream,28,-12.1
+Ice-cream,41,-14.4
+Flavored Milk,24,4.1
+Milk,30,1.0
+Curd,28,2.1
+Cheese,30,6.6
+Milk,32,3.0
+Cheese,32,6.2
+Milk,26,3.2
+Curd,29,4.7
+Cheese,36,4.7
+Ice-cream,33,-13.9
+Milk,45,1.6
+Cheese,21,2.0
+Ice-cream,25,-17.5
+Cheese,35,4.3
+Milk,39,2.9
+Cheese,40,1.6
+Milk,28,3.0
+Ice-cream,25,-12.2
+Cheese,22,5.5
+Milk,29,3.4
+Flavored Milk,38,7.2
+Flavored Milk,41,4.7
+Ice-cream,45,-15.1
+Flavored Milk,30,7.9
+Ice-cream,21,-17.1
+Cheese,20,2.6
+Milk,38,1.0
+Ice-cream,35,-14.1
+Ice-cream,45,-12.3
+Curd,34,4.3
+Flavored Milk,32,3.0
+Milk,30,3.6
+Milk,21,2.8
+Ice-cream,42,-12.3
+Flavored Milk,43,4.2
+Milk,44,1.3
+Curd,24,3.1
+Cheese,29,5.4
+Ice-cream,43,-18.0
+Curd,34,3.3
+Ice-cream,23,-17.7
+Ice-cream,45,-13.5
+Ice-cream,40,-12.1
+Curd,20,2.1
+Curd,30,5.5
+Ice-cream,29,-16.0
+Ice-cream,29,-12.9
+Curd,28,2.9
+Cheese,44,6.6
+Cheese,27,6.7
+Milk,22,3.0
+Cheese,25,4.9
+Cheese,45,5.2
+Milk,36,3.6
+Milk,34,2.0
+Ice-cream,31,-16.0
+Cheese,39,1.9
+Ice-cream,26,-13.7
+Cheese,23,4.8
+Ice-cream,44,-14.2
+Flavored Milk,32,6.3
+Cheese,23,3.5
+Cheese,30,1.6
+Ice-cream,21,-16.2
+Flavored Milk,33,5.1
+Flavored Milk,38,2.5
+Cheese,43,1.3
+Flavored Milk,23,2.7
+Cheese,24,5.2
+Flavored Milk,45,2.1
+Curd,35,3.3
+Flavored Milk,27,7.5
+Ice-cream,39,-13.4
+Curd,33,4.4
+Curd,21,3.4
+Flavored Milk,30,7.6
+Cheese,20,2.6
+Curd,43,4.1
+Ice-cream,22,-13.7
+Milk,37,2.2
+Ice-cream,29,-14.5
+Ice-cream,20,-16.0
+Ice-cream,26,-13.3
+Ice-cream,34,-17.4
+Ice-cream,24,-13.0
+Ice-cream,29,-13.5
+Curd,23,3.1
+Cheese,40,5.0
+Flavored Milk,26,6.1
+Flavored Milk,43,7.9
+Cheese,36,3.8
+Milk,35,3.9
+Cheese,26,3.6
+Flavored Milk,44,4.5
+Curd,45,4.2
+Milk,21,2.5
+Curd,30,4.5
+Flavored Milk,39,7.8
+Milk,31,1.6
+Milk,20,2.9
+Flavored Milk,41,3.1
+Ice-cream,34,-18.0
+Cheese,26,1.2
+Ice-cream,32,-17.8
+Curd,24,2.2
+Milk,36,2.9
+Milk,28,4.0
+Ice-cream,28,-16.3
+Milk,27,1.6
+Flavored Milk,20,5.6
+Curd,44,4.4
+Milk,41,2.1
+Milk,33,2.3
+Cheese,30,6.7
+Flavored Milk,26,7.9
+Curd,44,4.1
+Curd,31,3.1
+Milk,37,1.3
+Flavored Milk,39,5.3
+Cheese,44,6.4
+Curd,20,2.2
+Curd,26,3.4
+Curd,37,5.9
+Ice-cream,44,-14.0
+Ice-cream,25,-14.6
+Curd,35,5.9
+Flavored Milk,21,5.9
+Flavored Milk,37,4.0
+Cheese,43,3.1
+Cheese,28,2.5
+Ice-cream,25,-16.8
+Curd,20,2.6
+Curd,42,2.5
+Curd,28,4.9
+Flavored Milk,28,5.6
+Ice-cream,33,-14.9
+Curd,20,5.6
+Cheese,34,3.7
+Curd,28,5.1
+Curd,23,5.7
+Milk,44,1.7
+Flavored Milk,24,4.6
+Milk,44,1.8
+Cheese,21,1.5
+Flavored Milk,24,7.5
+Ice-cream,24,-15.5
+Ice-cream,39,-17.3
+Cheese,29,2.5
+Ice-cream,42,-13.4
+Cheese,42,4.8
+Ice-cream,25,-15.2
+Ice-cream,23,-16.1
+Milk,45,2.3
+Curd,42,2.6
+Flavored Milk,39,7.3
+Milk,45,1.1
+Flavored Milk,41,3.8
+Cheese,20,1.5
+Curd,45,2.3
+Ice-cream,27,-17.5
+Cheese,27,2.8
+Ice-cream,35,-16.3
+Cheese,24,4.3
+Milk,37,1.6
+Cheese,24,5.6
+Milk,45,3.6
+Milk,33,2.9
+Flavored Milk,26,4.9
+Curd,35,3.7
+Curd,30,2.9
+Flavored Milk,22,5.1
+Ice-cream,36,-14.2
+Milk,26,1.6
+Milk,31,2.3
+Ice-cream,36,-13.4
+Cheese,31,4.1
+Flavored Milk,32,6.9
+Curd,20,3.0
+Curd,22,4.2
+Curd,26,5.2
+Ice-cream,32,-13.0
+Milk,43,3.1
+Curd,31,3.3
+Cheese,43,5.8
+Milk,21,3.2
+Milk,23,1.2
+Cheese,44,6.1
+Cheese,37,5.8
+Ice-cream,35,-17.5
+Curd,42,5.2
+Flavored Milk,29,6.8
+Ice-cream,21,-14.5
+Flavored Milk,20,7.5
+Milk,33,3.2
+Cheese,27,4.5
+Milk,42,3.7
+Curd,34,5.3
+Ice-cream,27,-17.9
+Curd,24,2.2
+Curd,39,3.4
+Ice-cream,21,-13.3
+Flavored Milk,34,7.3
+Milk,43,2.3
+Flavored Milk,38,7.4
+Ice-cream,43,-13.4
+Flavored Milk,41,6.1
+Milk,21,4.0
+Flavored Milk,31,5.4
+Milk,35,3.3
+Flavored Milk,20,7.9
+Milk,33,3.0
+Curd,29,4.1
+Curd,31,6.0
+Flavored Milk,27,6.4
+Curd,44,3.6
+Cheese,34,5.8
+Milk,45,4.0
+Cheese,45,1.8
+Flavored Milk,38,5.8
+Flavored Milk,21,7.8
+Cheese,22,3.1
+Curd,33,3.3
+Curd,24,2.1
+Ice-cream,20,-13.3
+Curd,34,2.7
+Curd,39,5.8
+Milk,20,1.1
+Ice-cream,23,-14.3
+Ice-cream,20,-16.7
+Cheese,26,2.9
+Curd,22,4.9
+Curd,36,4.2
+Curd,32,4.4
+Flavored Milk,23,6.3
+Curd,27,3.2
+Curd,23,2.4
+Ice-cream,21,-15.8
+Milk,24,1.2
+Ice-cream,21,-16.7
+Milk,31,1.0
+Ice-cream,36,-16.1
+Milk,41,3.4
+Ice-cream,31,-13.3
+Ice-cream,23,-13.2
+Curd,42,2.7
+Ice-cream,21,-17.5
+Flavored Milk,28,5.6
+Milk,44,3.3
+Cheese,24,6.9
+Ice-cream,44,-12.7
+Milk,25,3.2
+Flavored Milk,20,2.3
+Ice-cream,37,-12.8
+Flavored Milk,20,5.8
+Cheese,25,3.3
+Ice-cream,41,-17.8
+Curd,39,3.5
+Milk,41,3.4
+Ice-cream,35,-16.3
+Flavored Milk,32,3.9
+Cheese,31,6.2
+Ice-cream,42,-17.5
+Flavored Milk,35,4.7
+Ice-cream,41,-17.9
+Cheese,45,2.7
+Curd,40,5.8
+Flavored Milk,30,7.5
+Curd,40,3.7
+Cheese,20,2.1
+Cheese,23,6.8
+Curd,25,2.6
+Ice-cream,41,-16.9
+Ice-cream,21,-16.8
+Flavored Milk,34,7.1
+Ice-cream,32,-16.8
+Milk,34,2.3
+Cheese,20,2.1
+Cheese,28,5.7
+Cheese,29,5.4
+Flavored Milk,32,5.0
+Ice-cream,39,-13.0
+Milk,20,2.8
